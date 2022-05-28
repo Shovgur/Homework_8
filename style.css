@@ -34,7 +34,16 @@
   width: 28px;
   height: 134px;
 }
+.item_inside{
+  color:white;
+  text-decoration: none;
+  width: 100px;
+  text-transform: uppercase;
+}
 
+.item_inside_2{
+  margin-left: 27px;
+}
 .main {
   display: flex;
   align-items: center;
@@ -46,6 +55,14 @@
   margin-top: 100px;
   line-height: 70px;
   font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main_about_content_1{
+text-transform: uppercase;
 }
 
 .button {
