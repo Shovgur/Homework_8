@@ -34,21 +34,17 @@
   width: 28px;
   height: 134px;
 }
-.item_inside{
-  color:white;
+.item_inside {
+  color: white;
   text-decoration: none;
   width: 100px;
   text-transform: uppercase;
 }
 
-.item_inside_2{
+.item_inside_2 {
   margin-left: 27px;
 }
-.main {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+  
 
 .main_about {
   color: white;
@@ -59,10 +55,12 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+
 }
 
-.main_about_content_1{
-text-transform: uppercase;
+.main_about_content_1 {
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .button {
