@@ -99,32 +99,168 @@
   display: flex;
   flex-direction: row;
 }
+ .img_icon_1{
+width: 100px;
+height: 100px;
+ }
+
 .icon_block_1{
   width: 370px;
   height: 305.43px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon_block_1_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
 
+.icon_block_1_text_small{
+  width: 370px;
+  height: 84px;
+
+}
+
+.img_icon_2{
+  width: 100px;
+  height: 100px;
 }
 
 .icon_block_2{
   width: 370px;
   height: 305.43px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
+.icon_block_2_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
+
+.icon_block_2_text_small{
+  width: 370px;
+  height: 84px;
+
+}
+
+.img_icon_3{
+  width: 100px;
+  height: 100px;
+}
 .icon_block_3{
   width: 370px;
   height: 305.43px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon_block_3_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
+
+.icon_block_3_text_small{
+  width: 370px;
+  height: 84px;
+
+}
+
+.img_icon_4{
+  width: 100px;
+  height: 100px;
 }
 
 .icon_block_4{
   width: 370px;
   height: 305.43px;
+  margin-top: 88.57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon_block_4_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
+
+.icon_block_4_text_small{
+  width: 370px;
+  height: 84px;
+
+}
+
+.img_icon_5{
+  width: 100px;
+  height: 100px;
 }
 .icon_block_5{
   width: 370px;
   height: 305.43px;
+  margin-top: 87.57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon_block_5_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
+
+.icon_block_5_text_small{
+  width: 370px;
+  height: 84px;
+
+}
+
+.img_icon_6{
+  width: 100px;
+  height: 100px;
 }
 
 .icon_block_6{
   width: 370px;
   height: 305.43px;
+  margin-top: 88.57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon_block_6_text_big{
+  width: 370px;
+  height: 72px;
+  margin-top: 29px;
+  margin-bottom: 20.43px;
+  font-weight: bold;
+}
+
+.icon_block_6_text_small{
+  width: 370px;
+  height: 84px;
+
 }
