@@ -8,7 +8,8 @@
 
 
 .about {
-  width: 100%;
+  width: 1510px;
+  height: 100%;
   padding-bottom: 120px;
   background: url(img/bg.png) center/cover no-repeat;
   background-color: #252b49;
@@ -150,4 +151,26 @@
   height: 84px;
   font-weight: 400;
    font-size: 18px;
+}
+
+.block_photo{
+  width: 1510px;
+  height: 678px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.block_photo_1{
+  display: flex;
+  flex-direction: column;
+  width: 378px;
+  height: 340px;
+}
+
+.block_photo_2{
+  display: flex;
+  flex-direction: row;
+  width: 378px;
+  height: 340px;
 }
