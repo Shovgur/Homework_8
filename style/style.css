@@ -297,7 +297,6 @@ align-items: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
   font-size: 30px;
-  align-items: center;
   line-height: 35.22px;
   margin-bottom: 5.29px;
 
@@ -309,8 +308,6 @@ align-items: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  align-items: center;
-  display: flex;
 }
 
 .button_download{
@@ -325,4 +322,5 @@ align-items: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 47.71px;
 }
