@@ -181,41 +181,57 @@
   margin-right: 30px;
 }
 
-.person_text_1{
-width: 270px;
-height: 30px;
-font-weight: 700;
-font-size: 24px;
-line-height: 28.18px;
-margin-top: 30px;
-color: #2D3033;
+.person_text_1 {
+  width: 270px;
+  height: 30px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28.18px;
+  margin-top: 30px;
+  color: #2d3033;
 }
 
-.person_text_2{
-width: 270px;
-height: 21px;
-margin-top: 5.29px;
-font-weight: 400;
-font-size: 18px;
-line-height: 21.13px;
-color: #FF4343;
+.person_text_2 {
+  width: 270px;
+  height: 21px;
+  margin-top: 5.29px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.13px;
+  color: #ff4343;
 }
 
-.person_text_3{
-width: 270px;
-height: 168px;
-margin-top: 17.86px;
-font-size: 18px;
-font-weight: 400;
-color: #6C7279;
+.person_text_3 {
+  width: 270px;
+  height: 168px;
+  margin-top: 17.86px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #6c7279;
 }
 
+.person_icon {
+  display: flex;
+  flex-direction: row;
+}
 
-.person_icon_facebook{
-width: 39px;
-height: 39px;
-margin-top: 37.86px;
-background-image: url(/img/facebook_icon.png);
-background-image: url(/img/facebook_border.png);
-z-index: -1;
+.person_icon_facebook {
+  width: 39px;
+  height: 39px;
+  margin-top: 37.86px;
+  margin-right: 6px;
+}
+
+.person_icon_twitter {
+  width: 39px;
+  height: 39px;
+  margin-top: 37.86px;
+  margin-right: 6px;
+}
+
+.person_icon_linkedin {
+  width: 39px;
+  height: 39px;
+  margin-top: 37.86px;
+  margin-right: 6px;
 }
