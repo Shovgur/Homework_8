@@ -279,7 +279,7 @@
 } */
 
 .download{
-  width: 1170px;
+width: 1170px;
 height: 224px;
 margin-top: 114px;
 margin-bottom: 114px;
@@ -292,5 +292,37 @@ align-items: center;
 }
 
 .download_text_1{
-  
+  width: 1170px;
+  height: 70px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  align-items: center;
+  line-height: 35.22px;
+  margin-bottom: 5.29px;
+
+}
+
+.download_text_2{
+  width: 1170px;
+  height: 21px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  align-items: center;
+  display: flex;
+}
+
+.button_download{
+  width: 370px;
+  height: 80px;
+  background-color: var(--color-red);
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 28.18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
