@@ -277,3 +277,20 @@
   height: 14px;
   border-radius: 100px;
 } */
+
+.download{
+  width: 1170px;
+height: 224px;
+margin-top: 114px;
+margin-bottom: 114px;
+margin-left: 170px;
+margin-right: 170px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+
+.download_text_1{
+  
+}
